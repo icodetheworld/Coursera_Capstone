@@ -1,289 +1,295 @@
-Postcode,Borough,Neighbourhood
-M1A,Not assigned,Not assigned
-M2A,Not assigned,Not assigned
-M3A,North York,Parkwoods
-M4A,North York,Victoria Village
-M5A,Downtown Toronto,Harbourfront
-M5A,Downtown Toronto,Regent Park
-M6A,North York,Lawrence Heights
-M6A,North York,Lawrence Manor
-M7A,Queen's Park,Not assigned
-M8A,Not assigned,Not assigned
-M9A,Etobicoke,Islington Avenue
-M1B,Scarborough,Rouge
-M1B,Scarborough,Malvern
-M2B,Not assigned,Not assigned
-M3B,North York,Don Mills North
-M4B,East York,Woodbine Gardens
-M4B,East York,Parkview Hill
-M5B,Downtown Toronto,Ryerson
-M5B,Downtown Toronto,Garden District
-M6B,North York,Glencairn
-M7B,Not assigned,Not assigned
-M8B,Not assigned,Not assigned
-M9B,Etobicoke,Cloverdale
-M9B,Etobicoke,Islington
-M9B,Etobicoke,Martin Grove
-M9B,Etobicoke,Princess Gardens
-M9B,Etobicoke,West Deane Park
-M1C,Scarborough,Highland Creek
-M1C,Scarborough,Rouge Hill
-M1C,Scarborough,Port Union
-M2C,Not assigned,Not assigned
-M3C,North York,Flemingdon Park
-M3C,North York,Don Mills South
-M4C,East York,Woodbine Heights
-M5C,Downtown Toronto,St. James Town
-M6C,York,Humewood-Cedarvale
-M7C,Not assigned,Not assigned
-M8C,Not assigned,Not assigned
-M9C,Etobicoke,Bloordale Gardens
-M9C,Etobicoke,Eringate
-M9C,Etobicoke,Markland Wood
-M9C,Etobicoke,Old Burnhamthorpe
-M1E,Scarborough,Guildwood
-M1E,Scarborough,Morningside
-M1E,Scarborough,West Hill
-M2E,Not assigned,Not assigned
-M3E,Not assigned,Not assigned
-M4E,East Toronto,The Beaches
-M5E,Downtown Toronto,Berczy Park
-M6E,York,Caledonia-Fairbanks
-M7E,Not assigned,Not assigned
-M8E,Not assigned,Not assigned
-M9E,Not assigned,Not assigned
-M1G,Scarborough,Woburn
-M2G,Not assigned,Not assigned
-M3G,Not assigned,Not assigned
-M4G,East York,Leaside
-M5G,Downtown Toronto,Central Bay Street
-M6G,Downtown Toronto,Christie
-M7G,Not assigned,Not assigned
-M8G,Not assigned,Not assigned
-M9G,Not assigned,Not assigned
-M1H,Scarborough,Cedarbrae
-M2H,North York,Hillcrest Village
-M3H,North York,Bathurst Manor
-M3H,North York,Downsview North
-M3H,North York,Wilson Heights
-M4H,East York,Thorncliffe Park
-M5H,Downtown Toronto,Adelaide
-M5H,Downtown Toronto,King
-M5H,Downtown Toronto,Richmond
-M6H,West Toronto,Dovercourt Village
-M6H,West Toronto,Dufferin
-M7H,Not assigned,Not assigned
-M8H,Not assigned,Not assigned
-M9H,Not assigned,Not assigned
-M1J,Scarborough,Scarborough Village
-M2J,North York,Fairview
-M2J,North York,Henry Farm
-M2J,North York,Oriole
-M3J,North York,Northwood Park
-M3J,North York,York University
-M4J,East York,East Toronto
-M5J,Downtown Toronto,Harbourfront East
-M5J,Downtown Toronto,Toronto Islands
-M5J,Downtown Toronto,Union Station
-M6J,West Toronto,Little Portugal
-M6J,West Toronto,Trinity
-M7J,Not assigned,Not assigned
-M8J,Not assigned,Not assigned
-M9J,Not assigned,Not assigned
-M1K,Scarborough,East Birchmount Park
-M1K,Scarborough,Ionview
-M1K,Scarborough,Kennedy Park
-M2K,North York,Bayview Village
-M3K,North York,CFB Toronto
-M3K,North York,Downsview East
-M4K,East Toronto,The Danforth West
-M4K,East Toronto,Riverdale
-M5K,Downtown Toronto,Design Exchange
-M5K,Downtown Toronto,Toronto Dominion Centre
-M6K,West Toronto,Brockton
-M6K,West Toronto,Exhibition Place
-M6K,West Toronto,Parkdale Village
-M7K,Not assigned,Not assigned
-M8K,Not assigned,Not assigned
-M9K,Not assigned,Not assigned
-M1L,Scarborough,Clairlea
-M1L,Scarborough,Golden Mile
-M1L,Scarborough,Oakridge
-M2L,North York,Silver Hills
-M2L,North York,York Mills
-M3L,North York,Downsview West
-M4L,East Toronto,The Beaches West
-M4L,East Toronto,India Bazaar
-M5L,Downtown Toronto,Commerce Court
-M5L,Downtown Toronto,Victoria Hotel
-M6L,North York,Downsview
-M6L,North York,North Park
-M6L,North York,Upwood Park
-M7L,Not assigned,Not assigned
-M8L,Not assigned,Not assigned
-M9L,North York,Humber Summit
-M1M,Scarborough,Cliffcrest
-M1M,Scarborough,Cliffside
-M1M,Scarborough,Scarborough Village West
-M2M,North York,Newtonbrook
-M2M,North York,Willowdale
-M3M,North York,Downsview Central
-M4M,East Toronto,Studio District
-M5M,North York,Bedford Park
-M5M,North York,Lawrence Manor East
-M6M,York,Del Ray
-M6M,York,Keelesdale
-M6M,York,Mount Dennis
-M6M,York,Silverthorn
-M7M,Not assigned,Not assigned
-M8M,Not assigned,Not assigned
-M9M,North York,Emery
-M9M,North York,Humberlea
-M1N,Scarborough,Birch Cliff
-M1N,Scarborough,Cliffside West
-M2N,North York,Willowdale South
-M3N,North York,Downsview Northwest
-M4N,Central Toronto,Lawrence Park
-M5N,Central Toronto,Roselawn
-M6N,York,The Junction North
-M6N,York,Runnymede
-M7N,Not assigned,Not assigned
-M8N,Not assigned,Not assigned
-M9N,York,Weston
-M1P,Scarborough,Dorset Park
-M1P,Scarborough,Scarborough Town Centre
-M1P,Scarborough,Wexford Heights
-M2P,North York,York Mills West
-M3P,Not assigned,Not assigned
-M4P,Central Toronto,Davisville North
-M5P,Central Toronto,Forest Hill North
-M5P,Central Toronto,Forest Hill West
-M6P,West Toronto,High Park
-M6P,West Toronto,The Junction South
-M7P,Not assigned,Not assigned
-M8P,Not assigned,Not assigned
-M9P,Etobicoke,Westmount
-M1R,Scarborough,Maryvale
-M1R,Scarborough,Wexford
-M2R,North York,Willowdale West
-M3R,Not assigned,Not assigned
-M4R,Central Toronto,North Toronto West
-M5R,Central Toronto,The Annex
-M5R,Central Toronto,North Midtown
-M5R,Central Toronto,Yorkville
-M6R,West Toronto,Parkdale
-M6R,West Toronto,Roncesvalles
-M7R,Mississauga,Canada Post Gateway Processing Centre
-M8R,Not assigned,Not assigned
-M9R,Etobicoke,Kingsview Village
-M9R,Etobicoke,Martin Grove Gardens
-M9R,Etobicoke,Richview Gardens
-M9R,Etobicoke,St. Phillips
-M1S,Scarborough,Agincourt
-M2S,Not assigned,Not assigned
-M3S,Not assigned,Not assigned
-M4S,Central Toronto,Davisville
-M5S,Downtown Toronto,Harbord
-M5S,Downtown Toronto,University of Toronto
-M6S,West Toronto,Runnymede
-M6S,West Toronto,Swansea
-M7S,Not assigned,Not assigned
-M8S,Not assigned,Not assigned
-M9S,Not assigned,Not assigned
-M1T,Scarborough,Clarks Corners
-M1T,Scarborough,Sullivan
-M1T,Scarborough,Tam O'Shanter
-M2T,Not assigned,Not assigned
-M3T,Not assigned,Not assigned
-M4T,Central Toronto,Moore Park
-M4T,Central Toronto,Summerhill East
-M5T,Downtown Toronto,Chinatown
-M5T,Downtown Toronto,Grange Park
-M5T,Downtown Toronto,Kensington Market
-M6T,Not assigned,Not assigned
-M7T,Not assigned,Not assigned
-M8T,Not assigned,Not assigned
-M9T,Not assigned,Not assigned
-M1V,Scarborough,Agincourt North
-M1V,Scarborough,L'Amoreaux East
-M1V,Scarborough,Milliken
-M1V,Scarborough,Steeles East
-M2V,Not assigned,Not assigned
-M3V,Not assigned,Not assigned
-M4V,Central Toronto,Deer Park
-M4V,Central Toronto,Forest Hill SE
-M4V,Central Toronto,Rathnelly
-M4V,Central Toronto,South Hill
-M4V,Central Toronto,Summerhill West
-M5V,Downtown Toronto,CN Tower
-M5V,Downtown Toronto,Bathurst Quay
-M5V,Downtown Toronto,Island airport
-M5V,Downtown Toronto,Harbourfront West
-M5V,Downtown Toronto,King and Spadina
-M5V,Downtown Toronto,Railway Lands
-M5V,Downtown Toronto,South Niagara
-M6V,Not assigned,Not assigned
-M7V,Not assigned,Not assigned
-M8V,Etobicoke,Humber Bay Shores
-M8V,Etobicoke,Mimico South
-M8V,Etobicoke,New Toronto
-M9V,Etobicoke,Albion Gardens
-M9V,Etobicoke,Beaumond Heights
-M9V,Etobicoke,Humbergate
-M9V,Etobicoke,Jamestown
-M9V,Etobicoke,Mount Olive
-M9V,Etobicoke,Silverstone
-M9V,Etobicoke,South Steeles
-M9V,Etobicoke,Thistletown
-M1W,Scarborough,L'Amoreaux West
-M2W,Not assigned,Not assigned
-M3W,Not assigned,Not assigned
-M4W,Downtown Toronto,Rosedale
-M5W,Downtown Toronto,Stn A PO Boxes 25 The Esplanade
-M6W,Not assigned,Not assigned
-M7W,Not assigned,Not assigned
-M8W,Etobicoke,Alderwood
-M8W,Etobicoke,Long Branch
-M9W,Etobicoke,Northwest
-M1X,Scarborough,Upper Rouge
-M2X,Not assigned,Not assigned
-M3X,Not assigned,Not assigned
-M4X,Downtown Toronto,Cabbagetown
-M4X,Downtown Toronto,St. James Town
-M5X,Downtown Toronto,First Canadian Place
-M5X,Downtown Toronto,Underground city
-M6X,Not assigned,Not assigned
-M7X,Not assigned,Not assigned
-M8X,Etobicoke,The Kingsway
-M8X,Etobicoke,Montgomery Road
-M8X,Etobicoke,Old Mill North
-M9X,Not assigned,Not assigned
-M1Y,Not assigned,Not assigned
-M2Y,Not assigned,Not assigned
-M3Y,Not assigned,Not assigned
-M4Y,Downtown Toronto,Church and Wellesley
-M5Y,Not assigned,Not assigned
-M6Y,Not assigned,Not assigned
-M7Y,East Toronto,Business Reply Mail Processing Centre 969 Eastern
-M8Y,Etobicoke,Humber Bay
-M8Y,Etobicoke,King's Mill Park
-M8Y,Etobicoke,Kingsway Park South East
-M8Y,Etobicoke,Mimico NE
-M8Y,Etobicoke,Old Mill South
-M8Y,Etobicoke,The Queensway East
-M8Y,Etobicoke,Royal York South East
-M8Y,Etobicoke,Sunnylea
-M9Y,Not assigned,Not assigned
-M1Z,Not assigned,Not assigned
-M2Z,Not assigned,Not assigned
-M3Z,Not assigned,Not assigned
-M4Z,Not assigned,Not assigned
-M5Z,Not assigned,Not assigned
-M6Z,Not assigned,Not assigned
-M7Z,Not assigned,Not assigned
-M8Z,Etobicoke,Kingsway Park South West
-M8Z,Etobicoke,Mimico NW
-M8Z,Etobicoke,The Queensway West
-M8Z,Etobicoke,Royal York South West
-M8Z,Etobicoke,South of Bloor
-M9Z,Not assigned,Not assigned
+Location,Pincode,State,District
+A F station yelahanka,560063,Karnataka,Bangalore
+Adugodi,560030,Karnataka,Bangalore
+Agara,560034,Karnataka,Bangalore
+Agram,560007,Karnataka,Bangalore
+Air Force hospital,560007,Karnataka,Bangalore
+Amruthahalli,560092,Karnataka,Bangalore
+Anandnagar,560024,Karnataka,Bangalore
+Anekal,562106,Karnataka,Bangalore
+Anekalbazar,562106,Karnataka,Bangalore
+Arabic College,560045,Karnataka,Bangalore
+Aranya Bhavan,560003,Karnataka,Bangalore
+Ashoknagar,560050,Karnataka,Bangalore
+Attibele,562107,Karnataka,Bangalore
+Attur,560064,Karnataka,Bangalore
+Austin Town,560047,Karnataka,Bangalore
+Avalahalli,560026,Karnataka,Bangalore
+Avani Sringeri mutt,560086,Karnataka,Bangalore
+Avenue Road,560002,Karnataka,Bangalore
+B Sk ii stage,560070,Karnataka,Bangalore
+Bsf Campus yelahanka,560064,Karnataka,Bangalore
+Bagalgunte,560073,Karnataka,Bangalore
+Bagalur,562149,Karnataka,Bangalore
+Balepete,560053,Karnataka,Bangalore
+Banashankari,560050,Karnataka,Bangalore
+Banashankari Iii stage,560085,Karnataka,Bangalore
+Banaswadi,560043,Karnataka,Bangalore
+Bandikodigehalli,562149,Karnataka,Bangalore
+Bangalore Air port,560017,Karnataka,Bangalore
+Bangalore Bazaar,560001,Karnataka,Bangalore
+Bangalore City,560002,Karnataka,Bangalore
+Bangalore Corporation building,560002,Karnataka,Bangalore
+Bangalore Dist offices bldg,560009,Karnataka,Bangalore
+Bangalore Fort,560002,Karnataka,Bangalore
+Bangalore Sub fgn post,560025,Karnataka,Bangalore
+Bangalore.,560001,Karnataka,Bangalore
+Bannerghatta,560083,Karnataka,Bangalore
+Bannerghatta Road,560076,Karnataka,Bangalore
+Bapujinagar,560026,Karnataka,Bangalore
+Basavanagudi,560004,Karnataka,Bangalore
+Basavaraja Market,560002,Karnataka,Bangalore
+Basaveshwaranagar,560079,Karnataka,Bangalore
+Basaveswaranagar Ii stage,560086,Karnataka,Bangalore
+Bellandur,560103,Karnataka,Bangalore
+Benson Town,560046,Karnataka,Bangalore
+Bestamaranahalli,562106,Karnataka,Bangalore
+Bettahalsur,562157,Karnataka,Bangalore
+Bhashyam Circle,560010,Karnataka,Bangalore
+Bhattarahalli,560049,Karnataka,Bangalore
+Bidaraguppe,562107,Karnataka,Bangalore
+Bidrahalli,560049,Karnataka,Bangalore
+Bnagalore Viswavidalaya,560056,Karnataka,Bangalore
+Bommanahalli,560068,Karnataka,Bangalore
+Brigade Road,560001,Karnataka,Bangalore
+Byatarayanapura,560026,Karnataka,Bangalore
+C.V.raman nagar,560093,Karnataka,Bangalore
+Cmp Centre and school,560025,Karnataka,Bangalore
+Crpf Campus yelahanka,560064,Karnataka,Bangalore
+Cahmrajendrapet,560002,Karnataka,Bangalore
+Chamrajpet,560018,Karnataka,Bangalore
+Chamrajpet Bazar,560018,Karnataka,Bangalore
+Chandra Lay out,560040,Karnataka,Bangalore
+Chickpet,560053,Karnataka,Bangalore
+Chikkabettahalli,560097,Karnataka,Bangalore
+Chikkajala,562157,Karnataka,Bangalore
+Chikkalasandra,560061,Karnataka,Bangalore
+Chikkanahalli,562130,Karnataka,Bangalore
+Chunchanakuppe,562130,Karnataka,Bangalore
+Cubban Road,560001,Karnataka,Bangalore
+Dasarahalli,560050,Karnataka,Bangalore
+Deepanjalinagar,560026,Karnataka,Bangalore
+Devanagundi,560067,Karnataka,Bangalore
+Devarjeevanahalli,560045,Karnataka,Bangalore
+Devasandra,560036,Karnataka,Bangalore
+Dharmaram College,560029,Karnataka,Bangalore
+Doddagubbi,562149,Karnataka,Bangalore
+Doddajala,562157,Karnataka,Bangalore
+Doddakallasandra,560062,Karnataka,Bangalore
+Doddanekkundi,560037,Karnataka,Bangalore
+Domlur,560071,Karnataka,Bangalore
+Dommasandra,562125,Karnataka,Bangalore
+Doorvaninagar,560016,Karnataka,Bangalore
+Dr. ambedkar veedhi,560001,Karnataka,Bangalore
+Electronics City,560100,Karnataka,Bangalore
+Fraser Town,560005,Karnataka,Bangalore
+G.K.v.k.,560065,Karnataka,Bangalore
+Gaviopuram Extension,560019,Karnataka,Bangalore
+Gaviopuram Guttanahalli,560019,Karnataka,Bangalore
+Gayathrinagar,560021,Karnataka,Bangalore
+Girinagar,560085,Karnataka,Bangalore
+Goraguntepalya,560022,Karnataka,Bangalore
+Goripalya,560026,Karnataka,Bangalore
+Governmemnt Electric factory,560026,Karnataka,Bangalore
+Govindapalya,560013,Karnataka,Bangalore
+Gunjur,560087,Karnataka,Bangalore
+H M t,560013,Karnataka,Bangalore
+H.A. farm,560024,Karnataka,Bangalore
+H.A.l ii stage,560008,Karnataka,Bangalore
+H.K.p. road,560051,Karnataka,Bangalore
+Hsr Layout,560102,Karnataka,Bangalore
+Hampinagar,560104,Karnataka,Bangalore
+Handenahalli,562125,Karnataka,Bangalore
+Harogadde,562106,Karnataka,Bangalore
+Hebbal Kempapura,560024,Karnataka,Bangalore
+Hennagara,562106,Karnataka,Bangalore
+Highcourt,560001,Karnataka,Bangalore
+Hongasandra,560068,Karnataka,Bangalore
+Hoodi,560048,Karnataka,Bangalore
+Horamavu,560043,Karnataka,Bangalore
+Hosakerehalli,560085,Karnataka,Bangalore
+Hosur Road,560030,Karnataka,Bangalore
+Hulimangala,562106,Karnataka,Bangalore
+Hulimavu,560076,Karnataka,Bangalore
+Hulsur Bazaar,560008,Karnataka,Bangalore
+Hunasamaranahalli,562157,Karnataka,Bangalore
+Isro Anthariksha bhavan,560094,Karnataka,Bangalore
+Immedihalli,560066,Karnataka,Bangalore
+Indalavadi,562106,Karnataka,Bangalore
+Indiranagar,560038,Karnataka,Bangalore
+Indiranagar Com. complex,560038,Karnataka,Bangalore
+Industrial Estate,560010,Karnataka,Bangalore
+Ittamadu Layout,560085,Karnataka,Bangalore
+J P nagar,560078,Karnataka,Bangalore
+J.C.nagar,560006,Karnataka,Bangalore
+Jakkur,560064,Karnataka,Bangalore
+Jalahalli,560013,Karnataka,Bangalore
+Jalahalli East,560014,Karnataka,Bangalore
+Jalahalli Village,560013,Karnataka,Bangalore
+Jalahalli West,560015,Karnataka,Bangalore
+Jalavayuvihar,560043,Karnataka,Bangalore
+Jayanagar,560041,Karnataka,Bangalore
+Jayanagar West,560070,Karnataka,Bangalore
+Jayangar East,560069,Karnataka,Bangalore
+Jayangar Iii block,560011,Karnataka,Bangalore
+Jeevanahalli,560005,Karnataka,Bangalore
+Jeevanbhimanagar,560066,Karnataka,Bangalore
+Jigani,562106,Karnataka,Bangalore
+Jp Nagar iii phase,560078,Karnataka,Bangalore
+K H b colony,560079,Karnataka,Bangalore
+K. g. road,560009,Karnataka,Bangalore
+K.P.west,560020,Karnataka,Bangalore
+Kacharakanahalli,560084,Karnataka,Bangalore
+Kadabagere,562130,Karnataka,Bangalore
+Kadugodi,560067,Karnataka,Bangalore
+Kalkunte,560067,Karnataka,Bangalore
+Kalyanagar,560043,Karnataka,Bangalore
+Kamagondanahalli,560015,Karnataka,Bangalore
+Kamakshipalya,560079,Karnataka,Bangalore
+Kannamangala,560067,Karnataka,Bangalore
+Kannur,562149,Karnataka,Bangalore
+Kanteeravanagar,560096,Karnataka,Bangalore
+Kathriguppe,560085,Karnataka,Bangalore
+Kenchanahalli,560098,Karnataka,Bangalore
+Kendriya Sadan,560034,Karnataka,Bangalore
+Kendriya Vihar,560064,Karnataka,Bangalore
+Kodigehalli,560092,Karnataka,Bangalore
+Konanakunte,560062,Karnataka,Bangalore
+Koramangala,560034,Karnataka,Bangalore
+Koramangala I block,560034,Karnataka,Bangalore
+Koramangala Vi bk,560095,Karnataka,Bangalore
+Kothanur,560077,Karnataka,Bangalore
+Krishnarajapuram,560036,Karnataka,Bangalore
+Krishnarajapuram R s,560016,Karnataka,Bangalore
+Kugur,562125,Karnataka,Bangalore
+Kumaraswamy Layout,560078,Karnataka,Bangalore
+Kumbalgodu,560074,Karnataka,Bangalore
+Kundalahalli,560037,Karnataka,Bangalore
+Lalbagh West,560004,Karnataka,Bangalore
+Legislators Home,560001,Karnataka,Bangalore
+Lingarajapuram,560084,Karnataka,Bangalore
+M S r road,560054,Karnataka,Bangalore
+Madhavan Park,560011,Karnataka,Bangalore
+Madivala,560068,Karnataka,Bangalore
+Magadi Road,560023,Karnataka,Bangalore
+Mahadevapura,560048,Karnataka,Bangalore
+Mahalakshmipuram Layout,560086,Karnataka,Bangalore
+Mahatma Gandhi road,560001,Karnataka,Bangalore
+Malkand Lines,560033,Karnataka,Bangalore
+Mallathahalli,560056,Karnataka,Bangalore
+Malleswaram,560003,Karnataka,Bangalore
+Malleswaram West,560055,Karnataka,Bangalore
+Mandalay Lines,560033,Karnataka,Bangalore
+Marathahalli Colony,560037,Karnataka,Bangalore
+Marsur,562106,Karnataka,Bangalore
+Maruthi Sevanagar,560033,Karnataka,Bangalore
+Mathikere,560054,Karnataka,Bangalore
+Mavalli,560004,Karnataka,Bangalore
+Mayasandra,562107,Karnataka,Bangalore
+Medihalli,560049,Karnataka,Bangalore
+Medimallasandra,560067,Karnataka,Bangalore
+Mico Layout,560076,Karnataka,Bangalore
+Milk Colony,560055,Karnataka,Bangalore
+Mount St joseph,560076,Karnataka,Bangalore
+Msrit,560054,Karnataka,Bangalore
+Mundur,560049,Karnataka,Bangalore
+Museum Road,560025,Karnataka,Bangalore
+Muthanallur,560099,Karnataka,Bangalore
+Muthusandra,560087,Karnataka,Bangalore
+Nal,560017,Karnataka,Bangalore
+Naduvathi,560067,Karnataka,Bangalore
+Nagarbhavi,560072,Karnataka,Bangalore
+Nagasandra,560073,Karnataka,Bangalore
+Nagavara,560045,Karnataka,Bangalore
+Nandinilayout,560096,Karnataka,Bangalore
+Narasimharaja Colony,560019,Karnataka,Bangalore
+Narasimjharaja Road,560002,Karnataka,Bangalore
+Narayan Pillai street,560001,Karnataka,Bangalore
+Nayandahalli,560039,Karnataka,Bangalore
+Neralur,562107,Karnataka,Bangalore
+New Tharaggupet,560002,Karnataka,Bangalore
+New Thippasandra,560075,Karnataka,Bangalore
+Okalipuram,560021,Karnataka,Bangalore
+P&t Col. kavalbyrasandra,560032,Karnataka,Bangalore
+Padmanabhnagar,560070,Karnataka,Bangalore
+Palace Guttahalli,560003,Karnataka,Bangalore
+Panathur,560087,Karnataka,Bangalore
+Pasmpamahakavi Road,560004,Karnataka,Bangalore
+Peenya I stage,560058,Karnataka,Bangalore
+Peenya Ii stage,560058,Karnataka,Bangalore
+Peenya Small industries,560058,Karnataka,Bangalore
+R T nagar,560032,Karnataka,Bangalore
+R.M.v. extension ii stage,560094,Karnataka,Bangalore
+Rajajinagar,560010,Karnataka,Bangalore
+Rajajinagar I block,560010,Karnataka,Bangalore
+Rajajinagar Ivth block,560010,Karnataka,Bangalore
+Rajanakunte,560064,Karnataka,Bangalore
+Rajarajeshwarinagar,560098,Karnataka,Bangalore
+Rajbhavan,560001,Karnataka,Bangalore
+Ramachandrapuram,560021,Karnataka,Bangalore
+Ramagondanahalli,560066,Karnataka,Bangalore
+Ramakrishna Hegde nagar,560045,Karnataka,Bangalore
+Ramamurthy Nagar,560016,Karnataka,Bangalore
+Rameshnagar,560037,Karnataka,Bangalore
+Richmond Town,560025,Karnataka,Bangalore
+Rv Niketan,560059,Karnataka,Bangalore
+Sadashivanagar,560080,Karnataka,Bangalore
+Sahakaranagar P.o,560092,Karnataka,Bangalore
+Samandur,562106,Karnataka,Bangalore
+Samethanahalli,560067,Karnataka,Bangalore
+Sampangiramnagar,560027,Karnataka,Bangalore
+Sarjapura,562125,Karnataka,Bangalore
+Science Institute,560012,Karnataka,Bangalore
+Seshadripuram,560020,Karnataka,Bangalore
+Shankarpura,560004,Karnataka,Bangalore
+Shanthinagar,560027,Karnataka,Bangalore
+Sidihoskote,562106,Karnataka,Bangalore
+Singanayakanahalli,560064,Karnataka,Bangalore
+Sivan Chetty gardens,560042,Karnataka,Bangalore
+Someswarapura,560008,Karnataka,Bangalore
+Sri Jayachamarajendra road,560002,Karnataka,Bangalore
+Srirampuram,560021,Karnataka,Bangalore
+St. john's medical college,560034,Karnataka,Bangalore
+St. thomas town,560084,Karnataka,Bangalore
+State Bank of mysore colony,560050,Karnataka,Bangalore
+Subhashnagar,560009,Karnataka,Bangalore
+Subramanyapura,560061,Karnataka,Bangalore
+Swimming Pool extn,560003,Karnataka,Bangalore
+Tarahunise,562157,Karnataka,Bangalore
+Tavarekere,562130,Karnataka,Bangalore
+Taverekere,560029,Karnataka,Bangalore
+Thambuchetty Palya,560049,Karnataka,Bangalore
+Thammanayakanahalli,562106,Karnataka,Bangalore
+Tilaknagar,560041,Karnataka,Bangalore
+Training Command iaf,560006,Karnataka,Bangalore
+Tyagrajnagar,560028,Karnataka,Bangalore
+Ullalu Upanagara,560056,Karnataka,Bangalore
+Vanakanahalli,562106,Karnataka,Bangalore
+Vartur,560087,Karnataka,Bangalore
+Vasanthnagar,560052,Karnataka,Bangalore
+Venkatarangapura,560003,Karnataka,Bangalore
+Venkateshapura,560045,Karnataka,Bangalore
+Vidhana Soudha,560001,Karnataka,Bangalore
+Vidyanagara,562157,Karnataka,Bangalore
+Vidyaranyapura,560097,Karnataka,Bangalore
+Vijayanagar,560040,Karnataka,Bangalore
+Vijayanagar East,560040,Karnataka,Bangalore
+Vikramnagar,560078,Karnataka,Bangalore
+Vimapura,560017,Karnataka,Bangalore
+Virgonagar,560049,Karnataka,Bangalore
+Visveswarapuram,560004,Karnataka,Bangalore
+Viswaneedam,560091,Karnataka,Bangalore
+Vittalnagar,560018,Karnataka,Bangalore
+Viveknagar,560047,Karnataka,Bangalore
+Vyalikaval Extn,560003,Karnataka,Bangalore
+Wheel And axle plant,560064,Karnataka,Bangalore
+Whitefield,560066,Karnataka,Bangalore
+Wilson Garden,560027,Karnataka,Bangalore
+Yadavanahalli,562107,Karnataka,Bangalore
+Yediyur,560070,Karnataka,Bangalore
+Yelachenahalli,560078,Karnataka,Bangalore
+Yelahanka,560064,Karnataka,Bangalore
+Yelahanka Satellite town,560064,Karnataka,Bangalore
+Yemalur,560037,Karnataka,Bangalore
+Yeshwanthpur Bazar,560022,Karnataka,Bangalore
+Yeswanthpura,560022,Karnataka,Bangalore
